@@ -34,7 +34,7 @@ To run this project, you need a web browser.
 
 ## Usage
 
-Click the buttons to enter numbers and operations. Click `=` to evaluate the expression. Click `Clear` to reset the calculator.
+Click the buttons to enter numbers and operations. First enter number or expression then click on the function buttons. Click `=` to evaluate the expression. Click `Clear` to reset the calculator.
 
 ## Files
 
