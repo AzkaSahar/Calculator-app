@@ -24,11 +24,11 @@ To run this project, you need a web browser.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AzkaSahar/calculator-app.git
+    git clone https://github.com/AzkaSahar/Calculator-app.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd calculator-app
+    cd Calculator-app
     ```
 3. Open `calc.html` in your web browser.
 
